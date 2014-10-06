@@ -1,0 +1,21 @@
+//
+"This is my sentence of words and things i want to compare against"
+
+['this','is','my'...]
+
+dictionary is copy paste of console.log(jsonString);
+
+
+
+
+
+
+
+//USER input part of this
+1. Input text field
+2. User will type a word and submit
+3. Check to see if word exists in the dictionaries (json object)
+	if yes : awesome
+	if no: set it to 0.5 0.5
+4. awesome = calculate probablity for that word
+	no = just 0.5 
